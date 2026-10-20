@@ -1,0 +1,4 @@
+AZAIRUS 2026 - invitación web.
+Sube index.html y la carpeta assets a la raíz de tu nuevo repositorio GitHub.
+Luego ve a Settings > Pages y selecciona Deploy from a branch, main y /(root).
+Incluye melodía instrumental sintetizada, que se activa al pulsar el botón.
