@@ -1,4 +1,14 @@
-AZAIRUS 2026 - invitación web.
-Sube index.html y la carpeta assets a la raíz de tu nuevo repositorio GitHub.
-Luego ve a Settings > Pages y selecciona Deploy from a branch, main y /(root).
-Incluye melodía instrumental sintetizada, que se activa al pulsar el botón.
+INVITACIÓN AZAIRUS 2026 — GITHUB PAGES
+
+1. Abre tu repositorio de GitHub en la rama main.
+2. En Add file > Upload files, sube el archivo index.html Y la carpeta assets completa (conservando sus nombres).
+   Si GitHub no acepta arrastrar la carpeta, arrastra juntos index.html y la carpeta assets desde el explorador.
+3. Pulsa Commit changes.
+4. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+5. Abre tu enlace https://USUARIO.github.io/REPOSITORIO/ y recarga después de unos minutos.
+
+NO SUBAS EL ZIP SIN DESCOMPRIMIR. GitHub Pages necesita index.html y assets/ en la raíz.
+Los tres botones enlazan al ticket, dress code y Google Maps suministrados.
+La música es un instrumental ORIGINAL generado en el navegador, no la canción de Lorde. Requiere tocar el botón ♫.
+El contador termina el 21 de noviembre de 2026 a las 18:00 hora de Panamá.
+El paquete solo contiene HTML, imágenes y texto, sin archivos ejecutables.
